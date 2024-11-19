@@ -1,6 +1,8 @@
 # 20232-team-3
 20232-team-3
 
+Tema do projeto : Sistema de armazenamento.
+
 # Sobre o projeto
 
 O projeto é uma reprodução da Steam usando conceitos de POO (Programação Orientada a Objeto). O programa funciona no terminal e possui também um banco de dados, para que os dados não sejam perdidos após a execução do programa. Como não possuíamos conhecimento sobre banco de dados, usamos arquivos .json, que facilitaram muito o andamento do trabalho.
